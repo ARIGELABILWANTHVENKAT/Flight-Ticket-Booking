@@ -1,0 +1,9 @@
+{
+  "name": "skyward-airways",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local airline booking demo",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
